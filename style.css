@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(16, 6, 104);
+    margin-left: 20px;
+}
+
+header {
+    margin: 20px 30px;
+
+}
+
+header h1 {
+    padding-left: 20px;
+    display: inline-block;
+    vertical-align: 60%;
+    font-size: 40px;
+    color: white;
+}
+
+header img {
+    width: 90px;
+    height: 90px;
+}
+
+table {
+    text-align: center;
+    position: relative;
+    top: 20px;
+    border: 1px solid lightblue;
+    font-size: 18px;
+}
+
+table th {
+    border: 1px solid lightblue;
+}
+
+table td {
+    border: 1px solid lightblue;
+}
+
+footer {
+    position: absolute;
+    margin: 20px;
+    bottom: 20px;
+}
+
+footer img {
+    padding-left: 20px;
+    width: 60%;
+    border-radius: 40px;
+}
+
+main {
+    font-size: 16px;
+    margin: 0px 50px;
+    color: white;
+    float: left;
+}
